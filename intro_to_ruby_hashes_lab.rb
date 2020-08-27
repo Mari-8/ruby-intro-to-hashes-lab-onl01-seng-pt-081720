@@ -3,7 +3,9 @@ def new_hass
 end
 
 def actor
-
+  actor = {
+    :name => "Dwayne The Rock Johnson"
+  }
 end
 
 def monopoly
